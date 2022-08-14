@@ -9,7 +9,7 @@
 - HomeScreen UI
 ![screenshot](https://github.com/Manjunath-Gowdar/PRIVATE-REPO-DOCS/blob/main/CherryShine/assets/1%20(2).png?raw=true)
 
-<img src="[drawing.jpg](https://github.com/Manjunath-Gowdar/PRIVATE-REPO-DOCS/blob/main/CherryShine/assets/1%20(2).png?raw=true)" alt="drawing" width="200"/>
+<img src="https://github.com/Manjunath-Gowdar/PRIVATE-REPO-DOCS/blob/main/CherryShine/assets/1%20(2).png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/Manjunath-Gowdar/PRIVATE-REPO-DOCS/blob/main/CherryShine/assets/1%20(2).png?raw=true" alt="drawing" width="200"/><img src="https://github.com/Manjunath-Gowdar/PRIVATE-REPO-DOCS/blob/main/CherryShine/assets/1%20(2).png?raw=true" alt="drawing" width="200"/><img src="https://github.com/Manjunath-Gowdar/PRIVATE-REPO-DOCS/blob/main/CherryShine/assets/1%20(2).png?raw=true" alt="drawing" width="200"/>
 
 ---
 
